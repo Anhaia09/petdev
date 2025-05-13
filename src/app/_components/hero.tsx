@@ -32,7 +32,7 @@ export function Hero() {
 
             <a
               href="#"
-              className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
+              className="bg-green-500 hover:bg-green-600 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
             >
               <WhatsappLogo className="w-5 h-5" />
               Contato via WhatsApp
